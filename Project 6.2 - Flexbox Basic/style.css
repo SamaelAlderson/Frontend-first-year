@@ -1,0 +1,34 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    max-width: 1200px;
+}
+
+.blue{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.black{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+
+.red{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.green{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color:green;
+}
